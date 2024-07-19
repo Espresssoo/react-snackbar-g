@@ -19,7 +19,7 @@ Provide brief messages about app processes. The component known as a Snackbar an
 `react-snackbar-g` contains two lines of text `title, message` and `type` directly related to the operation performed.
 
 ## Demo
-See how does it work <a target='_black'  rel="noopener noreferrer" href='https://shrroy.github.io/react-snackbar-g'>Live Demo</a>
+See how does it work <a target='_black'  rel="noopener noreferrer" href='https://devjett.github.io/react-snackbar-g'>Live Demo</a>
 
 
 ## Installation 
